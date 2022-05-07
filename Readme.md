@@ -6,7 +6,7 @@
 # Store Support
 | Store      | Support | Note                                    |
 |------------|---------|-----------------------------------------|
-| Woolworths | None    | Under development. See [#1](/issues/#1) |
+| Woolworths | None    | Under development. See [#1](../../issues/#1) |
 | Aldi       | None    | "                                       |
 | Coles      | None    | "                                       |
 
